@@ -1,2 +1,2 @@
 .idea
-.ipyb_checkpoints
+*.ipynb_checkpoints
