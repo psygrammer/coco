@@ -12,7 +12,7 @@
     - 안드로이드 2 : [Developing Android Apps](https://www.udacity.com/course/developing-android-apps--ud853)  
  - PART II
     - 인지, 베이지안, 안드로이드(=PARTI에서 안드로이드2) 교재는 PART I과 동일
-    - 앱 인벤터 : [안드로이드 앱 인벤터](http://www.acornpub.co.kr/book/android-app-inventor)
+    - 앱 인벤터 : [앱 인벤터 2 - 구글과 MIT 앱 인벤터 개발팀이 안내하는 안드로이드 프로그래밍](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=63443621)
  
 
 # 커리큘럼
