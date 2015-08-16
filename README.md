@@ -22,7 +22,10 @@
 
 |회차| 일시| 내용                                  | 발표자  |              발표자료                    |
 |--- |:---:| :-------------------------------------|:-------:|:---------------------------------------- |
-|    |     |                                       |         |                                          |
+|  1 |5/24 |(인지) 1. Review of Basic Mathematical Concepts Used in Computational and Mathematical Psychology|송숙영| [발표자료](https://drive.google.com/file/d/0Bxg6OBGpHhiiS0VGdzdpUmhxanM/view)|
+|    |     |(베이지안) 1. The basics of Bayesian analysis|김성근|[발표자료](https://drive.google.com/file/d/0B_Ekt7icI0htY3NIaDN4NGNHamM/view)|
+|    |     |(안드로이드 0) 보강 A. 안드로이드 개요 - 환경설정 & 안드로이드 스튜디오|이태영|[발표자료](https://drive.google.com/file/d/0BzAdMcZ2ia6EMmQ5cG5LbWVtdjg/view)|
+
 
 ------------
 
