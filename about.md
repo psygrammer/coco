@@ -4,17 +4,16 @@ title: About
 permalink: /about/
 ---
 
-* 스칼라를 이용한 기계학습 기초(+Spark)
-* 스터디 운영주체 : 싸이그래머([페이스북 그룹](https://www.facebook.com/groups/psygrammer/)), 스사모(한국 스파크 사용자 모임) - 인메모리 컴퓨팅([페이스북그룹](https://www.facebook.com/groups/sparkkoreauser/))
-* 스터디 리더 : 김무성, 지용기
-* 이 스터디는 스사모와 싸이그래머가 연합으로 진행하는 스터디입니다.
-* 네이버D2의 지원을 받습니다.
+* 수리심리학 + 베이지안 인지모델링 + IT 모델링(안드로이드/앱인벤터/docker/AWS)
+* 스터디 운영주체 : 싸이그래머([페이스북 그룹](https://www.facebook.com/groups/psygrammer/))
+* 스터디 리더 : 김무성
+
 
 ### More Information
 
-* [github](https://github.com/psygrammer/ScalaML)
+* [github](https://github.com/psygrammer/coco)
 * [관련 스터디들](http://psygrammer.github.io/)
-* [페이스북 그룹](https://www.facebook.com/groups/psygrammer/)
+* [페이스북 그룹](https://www.facebook.com/groups/coco/)
 
 
 ### Contact me
