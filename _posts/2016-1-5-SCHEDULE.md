@@ -17,7 +17,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |     |(베이지안) 14. Multinomial processing trees   |고희연 |[발표자료](http://nbviewer.ipython.org/github/psygrammer/coco/blob/master/part3/bayes/ch14/Baye_Chap14.ipynb) |
 |   |     |(docker) docker 기초 (1)  |이동원 | |
 | 2 | 12/13 |(인지) 12. Shape Perception (2)   | 김덕태| |
-|   |     |(베이지안)  16. The BART model of risk taking |김무성 |
+|   |     |(베이지안)  16. The BART model of risk taking |김무성 | [발표자료](http://nbviewer.ipython.org/github/psygrammer/coco/blob/master/part3/bayes/ch16/16_The_BART_model_of_risk_taking.ipynb)|
 | 3 | 12/20 |(수리심리) 14. Model Comparison and the Principle of Parsimony (1)  |김덕태 | |
 |   |     |(docker) docker 기초 (2)  |이동원 | |
 |   |     |(AWS) 01장 클라우드 컴퓨팅 소개 / 02장 AWS 개요 / 03 개발환경 설정  |권준호 | |
