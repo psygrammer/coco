@@ -9,6 +9,9 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 ## PART III 
 
 * 2015년 12월 6일 ~ 
+* 특별한 발표자료 링크가 없다면, docker와 AWS는 저자의 제약 조건에 따라, 아래 교재의 웹 버전 페이지를 그대로 사용함
+  - docker - 가장 빨리 만나는 Docker - http://pyrasis.com/docker.html
+  - AWS - 아마존 웹 서비스를 다루는 기술 - http://pyrasis.com/aws.html
 
 
 | 회차   | 일시   | 내용                                  | 발표자  |              발표자료                    |
@@ -23,16 +26,16 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |     |(AWS) 01장 클라우드 컴퓨팅 소개 / 02장 AWS 개요 / 03 개발환경 설정  |권준호 | |
 | 4 | 1/10 |(수리심리) 14. Model Comparison and the Principle of Parsimony (2)   |김덕태 | |
 |   |     |(베이지안) 15. The SIMPLE model of memory  |고희연 | |
-|   |     |(AWS)  04장 Amazon S3 - 데이터 저장 / 05장 Amazon EC2 - 웹 호스팅 |김무성 | |
+|   |     |(AWS)  4. 가상 서버를 제공하는 EC2 / 5. Security Group으로 방화벽 설정하기 / 6. 고정 IP를 제공하는 Elastic IP |김무성 | 참고자료:[ubuntu에서 ssh 접속 방법](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/TroubleshootingInstancesConnecting.html) / [ubuntu에서 volume 연결](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ebs-using-volumes.html)|
 | 5 | 1/17 |(수리심리) 15. Neurocognitive Modeling of Perceptual Decision Making  | 박성영| |
 |   |     |(베이지안) 17. The GCM model of categorization  | | |
-|   |     |(AWS) 06장 Amazon SQS - 확장형 아키텍쳐 만들기 / 07장 EC2 모니터링, 오토 스케일링, 일래스틱 로드 밸런싱 | | |
+|   |     |(AWS)  7. EC2 인스턴스 접속을 위한 키 쌍 /  8. AMI / 9. API와 툴 사용을 위한 액세스 키 생성하기 | | |
 | 6 | 1/24 |(수리심리) 16. Mathematical and Computational Modeling in Clinical Psychology  |김무성 | |
 |   |     |(베이지안) 18. Heuristic decision-making  |김무성 | |
-|   |     |(AWS) 08장 Amazon SimpleDB : 클라우드 DB / 09장 Amazon RDS | | |
+|   |     |(AWS) 10. AWS 리소스의 상태를 모니터링하는 CloudWatch / 11. HTTP 프로토콜과 연동되는 스토리지 S3 / 12. 전 세계에 콘텐츠를 배포하는 CDN 서비스인 CloudFront | | |
 | 7 | 1/31 |(수리심리) 17. Quantum Models of Cognition and Decision  | 김무성| |
 |   |     |(베이지안) 19. Number concept development  | | |
-|   |     |(AWS) (특강) Amazon 최신 서비스 리뷰 | | |
+|   |     |(AWS) 13. 확장 가능한 관계형 데이터베이스를 제공하는 RDS / 14. 확장 가능한 NoSQL 분산 데이터베이스를 제공하는 DynamoDB / 15. 확장 가능한 분산 인 메모리 캐시를 제공하는 ElastiCache | | |
 
 
 -------------
